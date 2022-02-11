@@ -1,0 +1,14 @@
+.share {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.unique-left {
+  color: white;
+  background-color: black;
+}
+
+.unique-right {
+  color: black;
+  background-color: yellow;
+}
